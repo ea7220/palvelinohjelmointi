@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "nodemon eka.js"
+  },
+
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
